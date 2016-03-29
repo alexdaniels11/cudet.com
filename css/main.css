@@ -5,7 +5,7 @@ GENERAL
 =============================================================================*/
 * {
   font-family: "Josefin Sans", sans-serif;
-  color: #777777; }
+  color: #444444; }
 
 body {
   margin: 0; }
@@ -14,7 +14,7 @@ p, a, li {
   font-size: 18px;
   letter-spacing: 1px;
   font-weight: 100;
-  color: #777777; }
+  color: #444444; }
 
 li {
   margin: 5px 0; }
