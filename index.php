@@ -1,21 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-	<link rel="icon" type="image/png" href="img/favicon.png">
-	<title>Coding UX Design Efficiency Trainging | CUDET Academy</title>
-	<link href='https://fonts.googleapis.com/css?family=Josefin+Sans:400,300,100,600,700,400italic' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-	<link rel="stylesheet" type="text/css" href="css/main.css">
-</head>
-<body>
+<?php include('elements/header.php'); ?>
 
-<div class="container">
-	<div class="col-sm-offset-4 col-sm-4 col-xs-offset-3 col-xs-6 nav-image">
-		<img class="img-responsive" draggable="false" src="img/logo.png">
-	</div>
-</div>
 <div class="container main-content">
 	<h1>Curriculum</h1>
 	<ul>
@@ -197,7 +181,7 @@
 				<li><h3>MAMP</h3>
 					<ol type="a">
 						<li>Local apache PHP server to run code like a live site, allows server-side code to function and connect to _db through cPanel</li>
-						<li>Download & run/start servers</li>
+						<li>Download &amp; run/start servers</li>
 						<li>Open localhost:8888</li>
 						<li>Select current project</li>
 					</ol>
@@ -226,9 +210,4 @@
 	</ul>
 </div>
 
-<footer> <?php echo Date('Y') ;?> </footer>
-
-<script src="http://code.jquery.com/jquery-1.12.0.min.js"></script>
-<script type="text/javascript" src="js/main.js"></script>
-</body>
-</html>
+<?php include('elements/footer.php'); ?>
