@@ -48,9 +48,9 @@ HOME
 .main-content {
   margin-top: 50px; }
   .main-content ul li h2 {
-    margin-top: 75px; }
-  .main-content ul li h3 {
-    color: #5FC094; }
+    margin-top: 75px;
+    color: #5FC094;
+    font-weight: 300; }
 
 /*=============================================================================
 
