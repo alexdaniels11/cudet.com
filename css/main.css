@@ -13,7 +13,8 @@ body {
 p, a, li {
   font-size: 16px;
   letter-spacing: 1px;
-  font-weight: 100; }
+  font-weight: 100;
+  color: #777777; }
 
 li {
   margin: 5px 0; }
