@@ -49,7 +49,7 @@ HOME
   margin-top: 50px; }
   .main-content ul li h2 {
     margin-top: 75px;
-    color: #5FC094;
+    color: linear-gradient(135deg, #5FC094, #5F9093);
     font-weight: 300; }
 
 /*=============================================================================
