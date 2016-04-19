@@ -1,0 +1,77 @@
+/*=============================================================================
+
+GENERAL
+
+=============================================================================*/
+* {
+  font-family: "Josefin Sans", sans-serif;
+  color: #444444; }
+
+body {
+  margin: 0; }
+
+p, a, li {
+  font-size: 18px;
+  letter-spacing: 1px;
+  font-weight: 100;
+  color: #444444; }
+
+li {
+  margin: 5px 0; }
+
+code {
+  font-size: 16px;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 300; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 50px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 100;
+  color: #444444; }
+
+h2 {
+  font-size: 42px; }
+
+h3 {
+  font-size: 32px; }
+
+/*=============================================================================
+
+HOME
+
+=============================================================================*/
+.nav-image {
+  margin-top: 50px; }
+
+.main-content {
+  margin-top: 50px; }
+  .main-content ul li h2 {
+    margin-top: 75px;
+    color: #5FC094;
+    font-weight: 300; }
+  .main-content ul li h3 {
+    color: #5F9093;
+    font-weight: 300; }
+
+/*=============================================================================
+
+FOOTER
+
+=============================================================================*/
+footer {
+  margin-top: 100px;
+  padding: 25px 0;
+  width: 100%;
+  background: linear-gradient(135deg, #5FC094, #5F9093); }
+  footer p {
+    color: #fff; }
+
+/*=============================================================================
+
+MOBILE
+
+=============================================================================*/
+
+/*# sourceMappingURL=main.css.map */
